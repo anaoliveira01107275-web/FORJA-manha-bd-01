@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nome":"Melancia",
+        "descricao": "2un Melancia",
+        "preco": 15.0,
+        "imagem": "../imagens/melancia.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Maça",
+        "descricao": "3un maça",
+        "preco": 13.50,
+        "imagem": "../imagens/maça.jpg"
+    },
+
+       {
+        "id": 3,
+        "nome": "Laranja",
+        "descricao": "4un laranja",
+        "preco": 10.50,
+        "imagem": "../imagens/laranja.jpeg"
+    },
+
+       {
+        "id": 4,
+        "nome": "Uva",
+        "descricao": "2 cachos de Uva",
+        "preco": 15.50,
+        "imagem": "../imagens/uva.jpg"
+    },
+
+       {
+        "id": 5,
+        "nome": "Goiaba",
+        "descricao": "6un maça",
+        "preco": 16.00,
+        "imagem": "../imagens/goiaba.png"
+    },
+
+       {
+        "id": 6,
+        "nome": "Banana",
+        "descricao": "1 cacho de banana",
+        "preco": 13.00,
+        "imagem": "../imagens/banana.jng"
+    },
+
+       {
+        "id": 7,
+        "nome": "Abacaxi",
+        "descricao": "1un abacaxi",
+        "preco": 10.00,
+        "imagem": "../imagens/abacaxi.jpg"
+    },
+
+       {
+        "id": 8,
+        "nome": "Ameixa",
+        "descricao": "1 pacote de ameixa",
+        "preco": 18.99,
+        "imagem": "../imagens/ameixa.webp"
+    },
+
+       {
+        "id": 9,
+        "nome": "Amora",
+        "descricao": "1 pacote de amora",
+        "preco": 15.99,
+        "imagem": "../imagens/amora.jpg"
+    },
+
+       {
+        "id": 10,
+        "nome": "Limão",
+        "descricao": "1 pacote",
+        "preco": 13.00,
+        "imagem": "../imagens/maça.jpg"
+    }
+
+
+
+
+
+
+]
